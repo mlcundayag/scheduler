@@ -27,5 +27,5 @@ I divided the tasks into three steps:
 ![Website(Mobile)](./images/Mobile%20Screenshot.jpeg)
 
 ## Links
-1. [Website](https://mlcundayag.github.io/quiz-for-dummies/)
-2. [Github](https://github.com/mlcundayag/quiz-for-dummies)
+1. [Website](https://mlcundayag.github.io/scheduler/)
+2. [Github](https://github.com/mlcundayag/scheduler)
